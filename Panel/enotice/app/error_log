@@ -1,0 +1,6 @@
+[30-Jul-2017 06:44:44 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/whyphhwe/public_html/clients.whyphyinfotech.com/enotice/app/login.php on line 65
+[30-Jul-2017 06:46:27 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/whyphhwe/public_html/clients.whyphyinfotech.com/enotice/app/login.php on line 65
+[30-Jul-2017 06:54:00 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/whyphhwe/public_html/clients.whyphyinfotech.com/enotice/app/login.php on line 65
+[30-Jul-2017 07:20:51 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/whyphhwe/public_html/clients.whyphyinfotech.com/enotice/app/login.php on line 65
+[30-Jul-2017 07:21:55 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/whyphhwe/public_html/clients.whyphyinfotech.com/enotice/app/login.php on line 65
+[30-Jul-2017 07:52:34 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/whyphhwe/public_html/clients.whyphyinfotech.com/enotice/app/login.php on line 65

@@ -1,0 +1,135 @@
+body, html {
+    	height: 100%;
+    	margin: 0;
+	}
+
+	.bg {
+  	  /* The image used */
+  	  background-image: url("back.jpg");
+
+   	 /* Full height */
+   	 height: 100%; 
+
+    	/* Center and scale the image nicely */
+   	background-position: center;
+  	background-repeat: no-repeat;
+    	background-size: cover;
+  	min-height: 100%;
+  	min-width: 100%;
+  	overflow: hidden;
+  	position: absolute;
+  	top: 0;
+  	z-index: -1;
+  	filter: brightness(50%);
+	}
+
+.custom-container {
+    max-width: 1600px;
+    width: calc(100% - 16px);
+    margin-top: 50px;
+    
+}
+.custom-content {
+    /*margin-top: 60px;*/
+    padding: 30px 56px;
+    margin-bottom: 20px;
+    background-color: white;
+    border: none;
+    box-shadow: 0px 1px 2px #888888;
+
+}
+.form-title{
+    padding: 15px;
+    box-shadow: 0px 1px 2px #888888;
+}
+#myLoader{
+    display: none;
+}
+.myHome{
+    width: 100%;
+    height: calc(100% - 60px);
+    min-height: 100%;
+}
+.home-container{
+    padding: 20px;
+}
+.my-card{
+    position: relative;
+    background-color: #fff;
+    transition: box-shadow .25s;
+    margin: .5rem 0 1rem 0;
+    border-radius: 2px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2)
+}
+.my-card .card-image{
+    position: relative;
+    border-radius: 2px 0px 0px 2px;
+    width: 100%;
+}
+.description-box{
+    max-height: 10rem;
+    overflow: hidden;
+}
+.invoice-container{
+    width:620px;
+    /*padding-right:11px;*/
+    /*padding-left:11px;*/
+    height: auto;
+    /*margin: 0 auto;*/
+    background-color: white;
+    box-shadow: 0px 1px 2px #888888;
+
+}
+.login-container{
+margin: 0 auto;
+width:520px;
+padding:20px;
+
+}
+.invoice-header{
+    padding: 10px;
+}
+.invoice-header .date{
+    font-size: 14px;
+}
+.amount-column{
+    width: 150px;
+}
+tr.border_bottom td {
+    border-bottom:1pt solid #D8D8D8;
+}
+.table-title th{
+    border-radius: 0px;
+}
+.dropdown-content {
+	z-index:995;
+}
+@media screen and (max-width:480px ) {
+    .login-container{
+        margin: 0 auto;
+        width:320px;
+        padding:20px;
+
+    }
+    #products.customcontainer{
+        max-width: 1280px;
+        width: 90%;
+        margin: 0 auto;
+    }
+    .subcontainer{
+        max-width: 1280px;
+        width: 90%;
+        margin: 0 auto;
+       
+    }
+    .myHome{
+        width: 100%;
+        height: calc(100% - 60px);
+        min-height: 0;
+    }
+    .navbar-fixed{
+        height: 56px;
+        position: relative;
+        z-index: 997;
+    }
+}

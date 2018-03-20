@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "464043371473",
+    "firebase_url": "https://e-notice-board-17e20.firebaseio.com",
+    "project_id": "e-notice-board-17e20",
+    "storage_bucket": "e-notice-board-17e20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464043371473:android:f046225072bf9275",
+        "android_client_info": {
+          "package_name": "com.whphy.enoticeboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464043371473-8fumjk71dk2jorl4n0npmfhousb4h5ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3izaYyF2tAuDNMqOYoEi3sFQwUKnp8wM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

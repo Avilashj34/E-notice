@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">E-Notice Board</string>
+
+    <string-array name="branches_array">
+        <item>Mechanical engineering</item>
+        <item>Civil</item>
+        <item>Electrical</item>
+        <item>Chemical</item>
+        <item>Computer</item>
+        <item>Robotics</item>
+        <item>Electronics and Communication</item>
+    </string-array>
+
+    <string-array name="colleges_array">
+        <item>Svp Institute</item>
+        <item>Abc Institute</item>
+        <item> BBV Institute</item>
+        <item>BIRLA Institute</item>
+        <item>IIM Institute</item>
+        <item>GTU Institute</item>
+        <item>LKS Institute</item>
+    </string-array>
+</resources>

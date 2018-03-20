@@ -1,0 +1,30 @@
+.notifcation{
+  text-align: center;
+}
+.mytoast {
+    width:auto;
+    height:auto;
+    position:fixed;
+    z-index: 900;
+    bottom:20px;
+    left: 10%;
+    background-color: #383838;
+    color: #F0F0F0;
+    font-family: Calibri;
+    font-size: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align:center;
+    border-radius: 2px;
+    -webkit-box-shadow: 0px 0px 24px -1px rgba(56, 56, 56, 1);
+    -moz-box-shadow: 0px 0px 24px -1px rgba(56, 56, 56, 1);
+    box-shadow: 0px 1px 2px #888888;
+}
+#success{
+  background-color: #4CAF50;
+}
+#error{
+ background-color: #F44336;
+}
